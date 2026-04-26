@@ -1,2 +1,2 @@
-# BrightLearn-Student-Exercise-26-April-2026
+# BrightLearn-Student-Portfolio-Exercise-26-April-2026
 How to build a Career Portfolio Website in Lovable
